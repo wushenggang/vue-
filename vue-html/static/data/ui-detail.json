@@ -1,0 +1,35 @@
+{
+  "uiNews":[
+    {
+      "icon":"../../static/images/uiIcon-1.jpg",
+      "title":"Tuso App UI Design",
+      "desc":" 创建属于自己的日历相册，通过点击日期可以快速切换到当天的照片，记录生活、回忆过去，日历相册让一切变得简单。而照片展示的方形构图让你用手机就可以体验专业摄影师高级单反的效果。",
+      "img":"../../static/images/uiDetail-1.jpg",
+      "id":1
+    },{
+    	"icon":"../../static/images/uiIcon-2.jpg",
+      "title":"Tuso White Style",
+      "desc":"你只需负责按下快门，修饰照片，剩下的交给我们。智能化的排版规则，为你倾情打造属于自己的独家刊物，让你的照片拥有杂志般质感的阅览体验。",
+      "img":"../../static/images/uiDetail-2.jpg",
+      "id":2
+    },{
+      "icon":"../../static/images/uiIcon-3.jpg",
+      "title":"喜匠 App & Web",
+      "desc":"深圳市喜匠汽车自动波箱专修厂，是专门从事汽车自动变速箱维修的三类企业。",
+      "img":"../../static/images/uiDetail-3.jpg",
+      "id":3
+    },{
+      "icon":"../../static/images/uiIcon-4.jpg",
+      "title":"蜻蜓校信 UI Design",
+      "desc":"蜻蜓互动秉承“沟通是一种教育方式”的现代教育理念，专注K12阶段家长和老师关系的社交应用发展。依托移动互联网的新信息技术，结合教育市场需求潜心研发，为老师、家长、学生提供一个真正适用的交流互动平台工具，从而为家长提供更多关于孩子教育类的增值服务。",
+      "img":"../../static/images/uiDetail-4.jpg",
+      "id":4
+    },{
+      "icon":"../../static/images/uiIcon-5.jpg",
+      "title":"简报 - 简单而快乐",
+      "desc":"简报提供极具简报特色的新闻阅读、跟贴盖楼、图片浏览、话题投票、要闻推送、离线阅读、流量提醒等功能，实现比电脑上看新闻更方便的优异体验，充分满足网友的手机新闻、娱乐、体育、财经、科技等多种资讯内容需求。为所有简报用户，提升手机看新闻的阅读体验。手机轻松一点，简报精彩内容马上呈现，比在电脑上看新闻更方便。",
+      "img":"../../static/images/uiDetail-5.jpg",
+      "id":5
+    }
+  ]
+}
